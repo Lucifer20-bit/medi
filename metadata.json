@@ -1,0 +1,6 @@
+{
+  "name": "Nigerian Hospital Filing System",
+  "description": "A secure, cloud-backed hospital filing system with offline-first record retrieval and smart paper folder digitization for Nigerian healthcare facilities.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
